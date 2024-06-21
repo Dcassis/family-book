@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizzing: border-box;
+    background-color:#ede0bd
+}
+.title{
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+    background-color:#ffbf58;
+     border-shadow: 3px 2px #dbd1ee;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+
+.user{
+    margin: 1rem auto;
+    background-color: #ffbf58;
+    border-radius: 8px;
+    padding: 0.5rem;
+    max-width: 500px;
+    mix-width: 350px;
+    border-shadow: 3px 2px #dbd1ee;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.user p, h2{
+    margin: 0.5rem 0.5rem;
+    background-color: #f6e5c7;
+}
+
+button{
+    background-color: #000;
+    color: #fff;
+    padding: 0.5rem;
+    border-radius: 10px;
+    margin: 0 auto;
+    max-width: 500px
+}
+
+button:hover{
+    background-color: #005
+}
+
+.containerInput{
+    display: block;
+    margin: 1rem auto;
+    max-width: 500px;
+    
+    border-shadow: 3px 2px #dbd1ee;
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+input{
+    margin: 0.2rem 0.5rem;
+    padding: 0.5rem;
+    width: 450px;
+    border-radius: 5px;
+    background-color: #7eb954;
+}
